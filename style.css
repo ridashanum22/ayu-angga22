@@ -1,5 +1,5 @@
 :root {
-  --pink: #45805f;
+  --pink: #569970;
   --awal: #000000;
   --bg: #45805f;
   --shadow: 0 2px 2px rgb(0, 0, 0);
@@ -36,7 +36,7 @@ body {
 .hero h3,
 .hero p {
   text-shadow: var(--shadow);
-  color: #45805f;
+  color: #569970;
 }
 
 .hero h1 {
